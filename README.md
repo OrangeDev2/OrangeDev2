@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything or IT and Linux related.
 - 📫 How to reach me: [My Linkedin Profile](https://www.linkedin.com/in/saboor-malik-011701186/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I do not listen to songs!
+- ⚡ Fun fact: I'm Arch user by the way. Also, I do not listen to songs!
 
 <img src="https://github-readme-stats.vercel.app/api?username=orangedev2&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
