@@ -4,6 +4,7 @@
 **OrangeDev2/OrangeDev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Affiliate Marketing Website 🌐, Qt Calculator 🖩, and Open-source stuffs
 - 🌱 I’m currently learning Django and Qt
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [My Linkedin Profile](https://www.linkedin.com/in/saboor-malik-011701186/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I do not listen to songs!
--->
+
