@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Github for contributes
 - 🤔 I’m looking for help with Cool Effects on Manjaro Distro or Portfolio
 - 💬 Ask me about Anything or IT and Linux related.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/saboor-malik-011701186/" target="_blank">My Linkedin Profile</a><!--[My Linkedin Profile](https://www.linkedin.com/in/saboor-malik-011701186/)-->
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/saboor-malik-011701186/" target="_blank">My Linkedin Profile</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Btw I use Arch Linux. Also, I do not listen to songs!
 
