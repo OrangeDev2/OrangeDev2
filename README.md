@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Check out my website/niche that I am working on.
 
-<img src="GTR_Logo.ping">
+<img src="/GTR_Logo.png">
 Link: <a href="http://gettechreviews.com/">gettechreviews.com</a>
 
 
