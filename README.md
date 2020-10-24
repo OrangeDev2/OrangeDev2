@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=orangedev2&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-### Take a look at my portfolio that's deployed with Cloudflare Worker API.
+### Take a look at my portfolio that's deployed with Cloudflare Workers.
 <a href="https://cloud-portfolio.sabym.workers.dev/">Portfolio in the Cloud</a>
 
 
