@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 
 ### Check out my website/niche that I am working on.
-<a href="http://gettechreviews.com/"><img src="/GTR_Logo.png"></a>
+<a href="http://gettechreviews.com/"><img src="/GTR_Logo.png" style="height:250px; width:250px;"></a>
+<a href="http://raspibeer.com/"><img src="/logo.png" style="height:250px width:250px"></a>
 
 
