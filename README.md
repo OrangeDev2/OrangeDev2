@@ -21,8 +21,3 @@ Here are some ideas to get you started:
 <a href="https://cloud-portfolio.sabym.workers.dev/">Portfolio in the Cloud</a>
 
 
-### Check out my website/niche that I am working on.
-<a href="http://gettechreviews.com/"><img src="/GTR_Logo.png" style="height:100px; width:100px;"></a>
-<a href="http://raspibeer.com/"><img src="/logo.png" style="height:100px; width:100px;"></a>
-
-
