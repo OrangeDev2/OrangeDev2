@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ShowIP.io 🌐
+- 🔭 I’m currently working on showip.io 🌐
 - 🌱 I’m currently learning React (front-end), PyQt/Qt (GUI Toolkit), and Deploying my website on cloud such as pages.github and CloudFlare
 - 👯 I’m looking to collaborate on Github for contributes
 - 🤔 I’m looking for help with Cool Effects on Manjaro Distro or Portfolio
