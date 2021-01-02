@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on showip.io 🌐
-- 🌱 I’m currently learning Full-satck -> React, NodeJS, and Express.
+- 🔭 I’m currently working on (showip.io 🌐 done!) -> Front-end libraries certification and Microservices Cert on freeCodeCamp
+- 🌱 I’m currently learning Full-satck -> React, NodeJS, and Express.  As well as mobile app development -> React Native or Flutter
 - 👯 I’m looking to collaborate on Github for contributes
 - 🤔 I’m looking for help with Cool Effects on Manjaro Distro or Portfolio
 - 💬 Ask me about Anything or IT and Linux related.
