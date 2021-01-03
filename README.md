@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything or IT and Linux related.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/saboor-malik-011701186/">My Linkedin Profile</a> (Please use "new tab" option)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm into web developments.
+- ⚡ Fun fact: I'm into web developments (Switching to back-end maybe?).
 
 <img src="https://github-readme-stats.vercel.app/api?username=orangedev2&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
